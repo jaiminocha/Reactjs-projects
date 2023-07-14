@@ -1,0 +1,33 @@
+.App{
+    align-items: center;
+}
+.counter{
+    background-color: aqua;
+}
+.btnstyle{
+    width: 2rem;
+    height: 2rem;
+    background-color: rgb(34, 191, 34);
+    border: 2px darkblue solid;
+    border-radius: 4px;
+    margin-left: 1em;
+}
+.heading{
+    color: white;
+    background-color: #81ecec;
+    margin-bottom: 1rem;
+}
+.row-header{
+    display: flex;
+    justify-content: space-around; 
+    align-items: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.rh{
+    font-weight: bold;
+    font-size: x-large;
+    margin-top: 1rem;
+}
+.fieldSet{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
